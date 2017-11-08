@@ -11,7 +11,7 @@ textfile should not have any empty lines, should only include valid IPv4 address
 Checks for existence of LG and Samsung Zero clients connected to switches (based on OUI).  next version will allow you to input patterns of MAC addresses (coming soon)
 
 usage:
-python sshmacid.py <switchesfile> <username>
+python sshmacid.py switchesfile username
   
 so for instance
 
