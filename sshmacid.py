@@ -9,8 +9,6 @@ from operator import itemgetter, attrgetter
 platform = 'cisco_ios'
 pw = getpass.getpass()
 
-#device = ConnectHandler(device_type=platform, ip=host, username=user, password=pw)
-
 devicelist = sys.argv[1]
 user = sys.argv[2]
 #ITERATE THROUGH LIST OF SWITCHES CAUSE YEAH
