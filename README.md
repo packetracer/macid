@@ -2,7 +2,7 @@
 
 Main use: Identifies ports that match specific MAC address on a switch.
 
-Detailed usae: Takes input of a textfile and username
+Detailed use: Takes input of a textfile and username
 textfile should not have any empty lines, should only include valid IPv4 addresses or you'll explode the script
 Uses file with list of IPs and file with list of MACs to find those MACs in those switches.  Outputs results to a user defined text file with ***somewhat*** sorted port numbers.  
 
