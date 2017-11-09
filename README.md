@@ -65,7 +65,8 @@ Scanning: 10.147.18.1
 Scanning: 10.147.19.1
 
 Scan complete
-lghnixadm@svrmgt05:~/py/UHC$ cat zero
+
+adm@svrmgt:~/py/UHC$ cat zero
 
 LGH_4th_Floor_Main:
 Gi1/0/10
