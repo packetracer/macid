@@ -1,4 +1,4 @@
-# macid/sshmacid
+#sshmacid
 Identifies ports that match specific MAC address
 sshmacid = SSH based
 
