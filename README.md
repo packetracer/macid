@@ -8,18 +8,29 @@ textfile should not have any empty lines, should only include valid IPv4 address
 Uses file with list of IPs and file with list of MACs to find those MACs in those switches.  Outputs results to a user defined text file with ***somewhat*** sorted port numbers.  
 
 Example "switch text file":
+
 <---Begin File--->
+
 10.0.0.1
+
 10.0.0.2
+
 10.0.0.3
+
 10.0.0.4
+
 10.0.0.5
+
 <---End File--->
 
 Exmaple "mac text file"
+
 <---Begin File--->
+
 cc2d
+
 14cd.13
+
 <---End File--->
 
 *NOTE DO NOT PUT THE SHIT IN THE <-- ---> IN YOUR TEXT FILE, THIS IS JUST TO SHOW THE BEGINING AND END OF A TEXT FILE.  
