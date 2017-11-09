@@ -7,8 +7,6 @@ from operator import itemgetter, attrgetter
 
 #INIT NETMIKO CONNECTHANDLER STRINGS
 platform = 'cisco_ios'
-#host = '10.147.247.232'
-#user = 'admin'
 pw = getpass.getpass()
 
 #SAVE ARGS TO VARS CAUSE WHY NOT
