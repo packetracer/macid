@@ -58,3 +58,4 @@ with open(devicelist,'r') as f:
                 o.write( '\n' + hostname + ': ')
                 for item in sortout:
                         o.write(item+'\n')
+print "Scan complete"
