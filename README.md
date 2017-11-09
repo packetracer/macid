@@ -23,7 +23,7 @@ Example "switch text file":
 
 <---End File--->
 
-Exmaple "mac text file"
+Example "mac text file"
 
 <---Begin File--->
 
