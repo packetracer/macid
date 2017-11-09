@@ -42,7 +42,7 @@ python sshmacid.py switches.list MAC.txt admin zeroclients.txt
 
 At combat speed:
 --------------------------
-adm@svrmgt:~/py/UHC$ sudo python sshmac2.py switches.list MAC.txt abcuser zero
+adm@svrmgt:~/py/UHC$ sudo python sshmacid.py switches.list MAC.txt abcuser zero
 
 Password:
 
